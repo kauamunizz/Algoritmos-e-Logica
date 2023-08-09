@@ -20,3 +20,10 @@
 //         real | numero com ponto flutuante |            0 | -1,4024E-37 a 3,4028E+38
 //    caractere |                      texto |           "" | (textos)
 //       logico |              valor verdade |        FALSO | FALSO, VERDADEIRO
+
+
+
+// Nomes de variaveis
+// Não pode começar com digito
+// Não pode ter espaço em branco
+// Não pode ter acentos
