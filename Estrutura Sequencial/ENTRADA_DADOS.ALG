@@ -10,7 +10,7 @@ Inicio
       leia(nome)
       escreva("Digite sua idade: ")
       leia(idade)
-      escreval("Digite quanto voce ganhou njos dois ultimos meses: ")
+      escreval("Digite quanto voce ganhou nos dois ultimos meses: ")
       leia(salario1)
       leia(salario2)
 

@@ -26,6 +26,6 @@ Inicio
       escreval
       escreval("Codigo = ", codigo)
       escreval
-      escreval("Dados da pessoa: genero ", genero, " e idade ", idade)
+      escreval("Dados da pessoa: genero ", genero, " e idade ", idade, " anos")
 
 Fimalgoritmo
